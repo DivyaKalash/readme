@@ -16,7 +16,7 @@ admin can add and edit category and service.
   <br><br>
   <i>Admin Side</i>
   <h2 align="center">Edit Category</h2>
-  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/syntup/blob/main/ss/edit_category.png"></p>
+  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/readme/blob/main/edit_category.png"></p>
   <br><br>
   <h2 align="center">Service Show</h2>
   <p align="center"><img width="700px" src="https://github.com/DivyaKalash/syntup/blob/main/ss/service_show.png"></p>
