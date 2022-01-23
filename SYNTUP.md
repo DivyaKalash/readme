@@ -6,23 +6,23 @@
 Service Providing site, In user side user can book the desired service. In admin side, admin get all the booking information. User get all informtiom in mail regarding booking.
 admin can add and edit category and service.
   <h2 align="center">User Homepage</h2>
-  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/syntup/blob/main/ss/home_syntup.png"></p>
+  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/readme/blob/main/home_syntup.png"></p>
   <br><br>
   <h2 align="center">ServiceList Page</h2>
-  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/syntup/blob/main/ss/product%20list.png"></p>
+  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/readme/blob/main/product%20list.png"></p>
   <br><br>
   <h2 align="center">Service Description</h2>
-  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/syntup/blob/main/ss/service_descr.png"></p>
+  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/readme/blob/main/service_descr.png"></p>
   <br><br>
   <i>Admin Side</i>
   <h2 align="center">Edit Category</h2>
   <p align="center"><img width="700px" src="https://github.com/DivyaKalash/readme/blob/main/edit_category.png"></p>
   <br><br>
   <h2 align="center">Service Show</h2>
-  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/syntup/blob/main/ss/service_show.png"></p>
+  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/readme/blob/main/service_show.png"></p>
   <br><br>
   <h2 align="center">Service Add</h2>
-  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/syntup/blob/main/ss/service_add.png"></p>
+  <p align="center"><img width="700px" src="https://github.com/DivyaKalash/readme/blob/main/service_add.png"></p>
   <br><br>
 
   <b><h1>Tech Stack Used💻</h1></b>
